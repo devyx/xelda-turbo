@@ -1,0 +1,7 @@
+	include "part1.obj"
+	include "part2.obj"
+	include "screen.obj"
+
+len_screen: EQU screen_end - 6100h
+len_part1:  EQU part1_end - 6100h
+len_part2:  EQU part2_end - 6100h

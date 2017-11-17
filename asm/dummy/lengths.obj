@@ -1,0 +1,3 @@
+len_screen:	EQU 5116
+len_part1:	EQU 36157
+len_part2:	EQU 37603

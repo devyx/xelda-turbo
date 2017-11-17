@@ -1,0 +1,2 @@
+deexo		EQU 05ED9H
+switchbank	EQU 05ECAH
